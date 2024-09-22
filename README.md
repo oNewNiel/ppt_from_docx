@@ -1,27 +1,28 @@
-# package_name
+<h1 align="center" >PPT from DOCX</h1>
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+The package ppt_from_docx is used to:
+- get text, tables and images from docx files;
+- create slides with python-pptx.
 
-## Installation
+<h2>Installation</h2>
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install ppt_from_docx
 
+TO BE UPLOADED TO PYPI.ORG
 ```bash
-pip install package_name
+pip install ppt_from_docx
 ```
 
-## Usage
+<h2>Usage</h2>
 
+YET TO BE DEVELOPED
 ```python
-from package_name.module1_name import file1_name
+from ppt_from_docx import file1_name
 file1_name.my_function()
 ```
 
-## Author
-My_name
+<h2>Author</h2>
+oNewNiel
 
-## License
+<h2>License</h2>
 [MIT](https://choosealicense.com/licenses/mit/)
